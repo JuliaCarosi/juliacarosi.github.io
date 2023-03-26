@@ -344,8 +344,8 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-default:hover,
 .btn-default:focus {
-  background-color: #A7B7D1;
-  border: 1px solid #A7B7D1;
+  background-color: white;
+  border: 1px solid white;
   color: white;
 }
 .pager {
@@ -400,7 +400,7 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #A7B7D1;
+  webkit-tap-highlight-color: white;
 }
 .fa-stack-2x {
  color: black;
