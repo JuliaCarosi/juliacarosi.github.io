@@ -76,14 +76,14 @@ hr.small {
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
-    color: #727C8D;
+    color: #A7B7D1;
   }
   .navbar-custom .nav li a {
     color: white;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover{
-    color: #727C8D;
+    color: #A7B7D1;
   }
 }
 @media only screen and (min-width: 1170px) {
@@ -113,14 +113,14 @@ hr.small {
     color: #ffffff;
   }
   .navbar-custom.is-fixed .navbar-brand:hover {
-    color: #727C8D;
+    color: #A7B7D1;
   }
   
   .navbar-custom.is-fixed .nav li a:hover {
-    color: #727C8D;
+    color: #A7B7D1;
   }
 .navbar-custom.is-fixed .nav li a:active{
-    color: #834244;
+    color: #D1979F;
   }
   .navbar-custom.is-visible {
     /* if the user changes the scrolling direction, we show the header */
@@ -220,7 +220,7 @@ hr.small {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #727C8D;
+  color: #A7B7D1;
 }
 .post-preview > a > .post-title {
   font-size: 30px;
@@ -244,7 +244,7 @@ hr.small {
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
-  color: #727C8D;
+  color: #A7B7D1;
   text-decoration: underline;
 }
 @media only screen and (min-width: 768px) {
@@ -324,7 +324,7 @@ footer .copyright {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #727C8D;
+  color: #A7B7D1;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -344,8 +344,8 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-default:hover,
 .btn-default:focus {
-  background-color: #727C8D;
-  border: 1px solid #727C8D;
+  background-color: #A7B7D1;
+  border: 1px solid #A7B7D1;
   color: white;
 }
 .pager {
@@ -384,12 +384,12 @@ form .row:first-child .floating-label-form-group {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #727C8D;
+  background: #A7B7D1;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #727C8D;
+  background: #A7B7D1;
 }
 img::selection {
   color: white;
@@ -400,7 +400,7 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #727C8D;
+  webkit-tap-highlight-color: #A7B7D1;
 }
 .fa-stack-2x {
  color: black;
