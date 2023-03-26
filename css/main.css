@@ -18,7 +18,7 @@ h4,
 h5,
 h6 {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif, 'Open Sans';
-  font-weight: 800;
+  font-weight: 300;
 }
 a {
   color: #760824;
@@ -56,13 +56,13 @@ hr.small {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif, 'Open Sans';
 }
 .navbar-custom .navbar-brand {
-  font-weight: 800;
+  font-weight: 300;
 }
 .navbar-custom .nav li a {
   color: white;
   text-transform: uppercase;
   font-size: 12px;
-  font-weight: 800;
+  font-weight: 300;
   letter-spacing: 1px;
 }
 @media only screen and (min-width: 768px) {
@@ -333,7 +333,7 @@ form .row:first-child .floating-label-form-group {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif, 'Open Sans';
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 300;
   letter-spacing: 1px;
   border-radius: 0;
   padding: 15px 25px;
@@ -356,7 +356,7 @@ form .row:first-child .floating-label-form-group {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif, 'Open Sans';
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 300;
   letter-spacing: 1px;
   padding: 10px 5px;
   background-color: black;
